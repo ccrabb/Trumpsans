@@ -1,0 +1,15 @@
+div[data-screen-name="realDonaldTrump"] p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+div[data-screen-name="realDonaldTrump"] div.QuoteTweet-authorAndText {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+div[data-screen-name="POTUS"] p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+div[data-screen-name="POTUS"] div.QuoteTweet-authorAndText {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
